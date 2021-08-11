@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.technosolution">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <activity android:name="Activities.Admin"></activity>
+        <activity android:name="Activities.MoreInfo">
+        </activity>
+        <activity android:name="Activities.AboutUs"></activity>
+        <activity android:name="Activities.order_now"></activity>
+        <activity android:name="Activities.BookNow" />
+        <activity android:name="Activities.Fans" />
+        <activity android:name="Activities.Lights" />
+        <activity android:name="Activities.Wires" />
+        <activity android:name="Activities.Inverters" />
+        <activity android:name="Activities.SolarPanels" />
+        <activity android:name="Activities.batteries" />
+        <activity android:name="Activities.AgriProjectDemos" />
+        <activity android:name="Activities.OfficesProjectDemos" />
+        <activity android:name="Activities.HomeProjectDemos" />
+        <activity android:name="Activities.Projects" />
+        <activity android:name="Activities.Products" />
+        <activity android:name="Activities.LaunchScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="Activities.MainActivity" />
+    </application>
+
+</manifest>

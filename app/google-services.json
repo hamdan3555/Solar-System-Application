@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612884660743",
+    "project_id": "techno-solutions-f77db",
+    "storage_bucket": "techno-solutions-f77db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612884660743:android:8dc5a109575572081560a2",
+        "android_client_info": {
+          "package_name": "com.example.technosolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612884660743-mkmtfa9s2ae0p44bafues6k87o1dcu0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARO7Bt94OpOrQLTDtpss8pSQFT7AM_P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612884660743-mkmtfa9s2ae0p44bafues6k87o1dcu0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
